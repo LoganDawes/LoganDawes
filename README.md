@@ -1,16 +1,13 @@
-## Hi there 👋
+# Logan Dawes
+## 🌐 Social Media
+[LinkedIn](https://www.linkedin.com/in/logan-dawes-1129a7341/)
 
-<!--
-**LoganDawes/LoganDawes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🖥️ Current Projects
+[MealForge - Nutrition web application](https://github.com/LoganDawes/MealForge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Multi-Train Railway Intersection Control System](https://github.com/LoganDawes/CS4323-Group-Project)
+
+
+## 📄 Other Projects
+[Video Game Demo](https://github.com/LoganDawes/2024-Game-Project)
