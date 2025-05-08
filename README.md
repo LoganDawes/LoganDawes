@@ -4,10 +4,11 @@
 
 
 ## 🖥️ Current Projects
+[IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer#courses)
+
+## 📄 Other Projects
 [MealForge - Nutrition web application](https://github.com/LoganDawes/MealForge)
 
 [Multi-Train Railway Intersection Control System](https://github.com/LoganDawes/CS4323-Group-Project)
 
-
-## 📄 Other Projects
 [Video Game Demo](https://github.com/LoganDawes/2024-Game-Project)
