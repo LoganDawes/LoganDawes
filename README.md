@@ -5,6 +5,7 @@
 
 ## 🖥️ Current Projects
 [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer#courses)
+
 [Digital Escape - Unity 2D Platformer](https://github.com/LoganDawes/DigitalEscape)
 
 
